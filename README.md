@@ -20,7 +20,7 @@ Library:
 + numpy 1.14.0
 + imgaug 0.2.5
 + neptune-cli
-+ ipython 6.3.1
++ [ipython 6.3.1](https://ipython.org): Soạn thảo chương trình trên python server 
 + [Pillow 5.1.0](https://python-pillow.org/): Là thư viện xử lý hình ảnh trong Python
 + [PyYAML 3.12](https://pyyaml.org/wiki/PyYAML): Sử dụng cú pháp của [YAML](https://yaml.org/) trong Python 
 + [Cython 0.28.2](https://cython.org/): Là một thư viện mở rộng cú pháp và kiểu dữ liệu C trong Python
