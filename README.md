@@ -5,10 +5,10 @@ Locate ships in images, and put an aligned bounding box segment around the ships
 https://www.kaggle.com/c/airbus-ship-detection/data
 ## Solution:
 Library:
-+ [tqdm 4.23.0](https://tqdm.github.io/)
-+ pandas 0.22.0
-+ imageio 2.2.0
-+ pydot_ng 1.0.0
++ [tqdm 4.23.0](https://tqdm.github.io/): Hiển thị thanh xử lý quá trình (progress bar) khi chạy command line
++ [pandas 0.22.0](http://pandas.pydata.org/): Là thư viện trong việc xử lý dữ liệu, tính toán
++ [imageio 2.2.0](https://imageio.github.io/): Là thư viện đọc, ghi, chỉnh sửa các vùng hình ảnh, video
++ [pydot_ng 1.0.0](): Viêt, thực thi [DOT language](https://en.wikipedia.org/wiki/DOT_%28graph_description_language%29), là ngôn ngữ mô tả đồ họa biểu đồ của [Graphviz](https://www.graphviz.org)
 + opencv_python 3.4.0.12
 + torch 0.3.1
 + attrdict 2.0.0
