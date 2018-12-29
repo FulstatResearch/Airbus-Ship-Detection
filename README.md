@@ -22,11 +22,11 @@ Library:
 + neptune-cli
 + ipython 6.3.1
 + Pillow 5.1.0
-+ PyYAML 3.12
-+ Cython 0.28.2
++ [PyYAML 3.12](https://pyyaml.org/wiki/PyYAML): Sử dụng cú pháp của [YAML](https://yaml.org/) trong Python 
++ [Cython 0.28.2](https://cython.org/): Là một thư viện mở rộng cú pháp và kiểu dữ liệu C trong Python
 + pycocotools 2.0.0
-+ steppy 0.1.14
-+ steppy-toolkit 0.1.12
++ [steppy 0.1.14](https://github.com/neptune-ml/steppy): Tập trung vào tính toán khoa học dữ liệu, [steppy xamples](https://github.com/neptune-ml/steppy-examples)
++ [steppy-toolkit 0.1.12](https://github.com/neptune-ml/steppy-toolkit): Cải tiến bổ sung của steppy
 + [pretrainedmodels 0.7.0](https://github.com/Cadene/pretrained-models.pytorch): Huấn luyện tiếp tục (pre-train) các mô hình Convolutional Neural Networks 
 + [torchvision 0.2.0](https://pytorch.org/docs/stable/torchvision/index.html): Tập hợp gồm rất nhiều dataset, mô hình kiến trúc, các tập hình ảnh dùng trong thị giác máy tính 
 
