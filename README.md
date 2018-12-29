@@ -24,6 +24,6 @@ Library:
 + pycocotools 2.0.0
 + steppy 0.1.14
 + steppy-toolkit 0.1.12
-+ pretrainedmodels 0.7.0
-+ torchvision 0.2.0
++ [pretrainedmodels 0.7.0](https://github.com/Cadene/pretrained-models.pytorch): Huấn luyện tiếp tục (pre-train) các mô hình Convolutional Neural Networks 
++ [torchvision 0.2.0](https://pytorch.org/docs/stable/torchvision/index.html): Tập hợp gồm rất nhiều dataset, mô hình kiến trúc, các tập hình ảnh dùng trong thị giác máy tính 
 
